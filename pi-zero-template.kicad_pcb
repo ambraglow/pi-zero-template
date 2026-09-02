@@ -1167,7 +1167,7 @@
 			(layers "*.Cu" "*.Mask")
 			(uuid "f337a339-2045-44c5-89bb-45012e63fdab")
 		)
-		(pad "1" thru_hole rect
+		(pad "1" thru_hole circle
 			(at 8.37 -25.2 90)
 			(size 1.7 1.7)
 			(drill 1)
@@ -4522,6 +4522,7 @@
 			(width 0.05)
 			(type default)
 		)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "3c576999-ce80-464d-9a37-a6ed51001753")
 	)
